@@ -3,6 +3,9 @@ This is to show how you can customise your buttons in one place
 
 ### Prerequisite
 * Have Material dependency in your app build.gradle
+```
+implementation 'com.google.android.material:material:1.4.0'
+```
 
 ### End result
 <img src="/images/roundedbuttonstutorial.png" width="260">
